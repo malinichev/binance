@@ -1,0 +1,28 @@
+.coverTAg{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+.tag{
+    width: 50%;
+    height: auto;
+    margin: 5px;
+    background-color: darkgray;
+    
+}
+.ask{
+    width: auto;
+    height: calc(50% - 10px);
+    background-color: gray;
+    margin: 5px;
+    display: flex;
+flex-flow: column;
+}
+.bid{
+    width: auto;
+    background-color: gray;
+    height: calc(50% - 10px);
+    margin: 5px;
+    display: flex;
+flex-flow: column;
+}

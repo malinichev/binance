@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/binance/static/css/main.401f5852.chunk.css",
+    "main.js": "/binance/static/js/main.709681d2.chunk.js",
+    "main.js.map": "/binance/static/js/main.709681d2.chunk.js.map",
+    "runtime-main.js": "/binance/static/js/runtime-main.70b8dd27.js",
+    "runtime-main.js.map": "/binance/static/js/runtime-main.70b8dd27.js.map",
+    "static/css/2.de424728.chunk.css": "/binance/static/css/2.de424728.chunk.css",
+    "static/js/2.4c94ce37.chunk.js": "/binance/static/js/2.4c94ce37.chunk.js",
+    "static/js/2.4c94ce37.chunk.js.map": "/binance/static/js/2.4c94ce37.chunk.js.map",
+    "index.html": "/binance/index.html",
+    "precache-manifest.929aa0b7c0255a7c5b5fc234351adb12.js": "/binance/precache-manifest.929aa0b7c0255a7c5b5fc234351adb12.js",
+    "service-worker.js": "/binance/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/binance/static/css/2.de424728.chunk.css.map",
+    "static/css/main.401f5852.chunk.css.map": "/binance/static/css/main.401f5852.chunk.css.map",
+    "static/js/2.4c94ce37.chunk.js.LICENSE.txt": "/binance/static/js/2.4c94ce37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70b8dd27.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.4c94ce37.chunk.js",
+    "static/css/main.401f5852.chunk.css",
+    "static/js/main.709681d2.chunk.js"
+  ]
+}
