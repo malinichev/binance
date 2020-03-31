@@ -71,23 +71,8 @@ export const setData = (data) => (dispatch) => {
 }
 export const setCurr = (curr) => (dispatch) => {
     dispatch(currAC(curr))
-    // dispatch(setDataAC())
+   
 }
-// export const initializeApp = () => async (dispatch) => {
-
-//     try{
-        
-//         dispatch(isDataLoad(false));
-        
-//         // dispatch(setIsData({'ddd':'dddd', 'ddd3':'dddd3'}));
-//         // dispatch(isError(false));
-
-//         // dispatch(isDataLoad(true));
-//         // dispatch(isError(false));
-//     }catch(err){
-//         console.log('errrr')
-//     }  
-// }
 
 
 export default appReduser
